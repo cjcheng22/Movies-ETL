@@ -8,7 +8,7 @@
 ### Deliverable 3: Extract and Transform the Kaggle data
 ### Deliverable 4: Create the Movie Database
 
-## Please note: The following files are submitted in 2 different folders.
+## ***Please note: The following files are submitted in 2 different folders.
 ### In "Kaggle_Data" folder: 
 #### wikipedia_movies.json
 #### movies_metadata.csv
